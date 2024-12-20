@@ -1,3 +1,8 @@
+---
+title: "Landcare Design System"
+nav_order: 1
+has_children: true
+---
 
 # Landcare Design System
 
@@ -8,7 +13,7 @@ Welcome to the **Landcare Design System**, your comprehensive guide to creating 
 The Landcare Design System is a set of guidelines, tools, and resources designed to standardise branding and communication across all Landcare groups. Whether you're working on digital assets, print materials, or event signage, this system provides everything you need to ensure consistency, accessibility, and professionalism.
 
 ### Key Features:
-- **Style Guide**: Foundational elements like logos, typography, colour palettes, and accessibility standards.
+- **Brand Guidelines**: Foundational elements like logos, typography, colour palettes, and accessibility standards.
 - **Reusable Components**: Buttons, cards, forms, and other UI elements to streamline digital design.
 - **Design Patterns**: Solutions for common design challenges, such as navigation menus and hero sections.
 - **Templates**: Ready-to-use designs for Word documents, print materials, and digital content.
@@ -20,8 +25,8 @@ The Landcare Design System is a set of guidelines, tools, and resources designed
 
 This documentation is structured to help you quickly find the information you need:
 
-1. **Foundational Elements**: Learn about the building blocks of the Landcare brand, including logos, colour palettes, and typography.  
-   [View Foundational Elements](branding/index.md)
+1. **Brand Guidelines**: Learn about the building blocks of the Landcare brand, including logos, colour palettes, and typography.  
+   [View Brand Guidelines](branding/index.md)
 
 2. **Components**: Explore reusable UI elements for digital and print designs.  
    [View Components](components/index.md)
