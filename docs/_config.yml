@@ -6,10 +6,10 @@ url: "https://landcare-groups.github.io/landcare-design-system/" # Your GitHub P
 
 
 
-just_the_docs:
-  aux_links:
+
+aux_links:
     "Landcare Australia": "https://landcareaustralia.org.au"
-  palette:
+palette:
     primary:
       hue: "#006837"
       contrast: "#ffffff"
@@ -17,5 +17,8 @@ just_the_docs:
       hue: "#e0e0e0"
       contrast: "#000000"
   color_scheme_toggle: true
-  footer_content: |
-    <p>© 2024 Landcare Design System. Built using <a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a>.</p>
+footer_content: "<p>Landcare Design System. Built using <a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a>.</p>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
