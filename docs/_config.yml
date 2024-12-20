@@ -1,5 +1,21 @@
-title: "Landcare Design System"
+title: "LDS"
 description: "Comprehensive design system for Landcare groups."
 remote_theme: just-the-docs/just-the-docs # Replace this with the theme you're using
 baseurl: "/landcare-design-system" # Add the repository name
 url: "https://landcare-groups.github.io/landcare-design-system/" # Your GitHub Pages URL
+
+
+
+just_the_docs:
+  aux_links:
+    "Landcare Australia": "https://landcareaustralia.org.au"
+  palette:
+    primary:
+      hue: "#006837"
+      contrast: "#ffffff"
+    secondary:
+      hue: "#e0e0e0"
+      contrast: "#000000"
+  color_scheme_toggle: true
+  footer_content: |
+    <p>© 2024 Landcare Design System. Built using <a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a>.</p>
