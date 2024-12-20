@@ -1,5 +1,5 @@
 title: "Landcare Design System"
 description: "Comprehensive design system for Landcare groups."
-theme: just-the-docs # Replace this with the theme you're using
+theme: just-the-docs/just-the-docs # Replace this with the theme you're using
 baseurl: "/landcare-design-system" # Add the repository name
 url: "https://landcare-groups.github.io/landcare-design-system/" # Your GitHub Pages URL
