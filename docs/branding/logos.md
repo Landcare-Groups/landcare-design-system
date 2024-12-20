@@ -1,4 +1,3 @@
-
 ---
 title: "Logos"
 parent: "Brand Guidelines"
