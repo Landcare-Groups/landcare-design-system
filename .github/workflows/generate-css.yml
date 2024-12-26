@@ -3,8 +3,8 @@ name: Generate CSS
 on:
   push:
     paths:
-      - "typography.yml"
-      - "colors.yml"
+      - "styles/typography.yml"
+      - "styles/colors.yml"
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
       run: pip install pyyaml
 
     - name: Generate CSS
-      run: python generate_css.py
+      run: python scripts/generate_css.py
 
     - name: Commit and push changes
       run: |

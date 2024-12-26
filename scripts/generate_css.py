@@ -1,10 +1,10 @@
 import yaml
 
 # Load YAML files
-with open('typography.yml', 'r') as typography_file:
+with open('styles/typography.yml', 'r') as typography_file:
     typography = yaml.safe_load(typography_file)
 
-with open('colors.yml', 'r') as colors_file:
+with open('styles/colors.yml', 'r') as colors_file:
     colors = yaml.safe_load(colors_file)
 
 # Start building the CSS file
