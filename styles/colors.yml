@@ -1,0 +1,181 @@
+
+colors:
+  core_landcare:
+    primary:
+      - name: "Landcare Green"
+        hex: "#82A53A"
+        rgb: "130, 166, 58"
+        cmyk: "50, 3, 97, 19"
+        pantone: 
+          coated: "370C"
+          uncoated: "370U"
+      - name: "Bright Green"
+        hex: "#C3D217"
+        rgb: "195, 210, 23"
+        cmyk: "28, 0, 92, 0"
+        pantone: 
+          coated: "382C"
+          uncoated: "382U"
+      - name: "Light Grey"
+        hex: "#DBDAD9"
+        rgb: "216, 218, 217"
+        cmyk: "7, 3, 5, 8"
+        pantone: 
+          coated: "427C"
+          uncoated: "427U"
+      - name: "Dark Grey"
+        hex: "#444642"
+        rgb: "68, 70, 66"
+        cmyk: "50, 30, 40, 90"
+        pantone: 
+          coated: "447C"
+          uncoated: "447U"
+    secondary:
+      - name: "Forest"
+        hex: "#325040"
+        rgb: "50, 80, 64"
+        cmyk: "82, 30, 65, 76"
+        pantone: 
+          coated: "553C"
+          uncoated: "553U"
+      - name: "Emerald"
+        hex: "#005741"
+        rgb: "0, 87, 65"
+        cmyk: "84, 17, 68, 55"
+        pantone: 
+          coated: "7484C"
+          uncoated: "342U"
+      - name: "Light Green"
+        hex: "#EFF5DC"
+        rgb: "239, 245, 220"
+        cmyk: "6, 0, 16, 0"
+        pantone: 
+          coated: "372C (40% tint)"
+          uncoated: "372U (40% tint)"
+      - name: "Ocean"
+        hex: "#25355A"
+        rgb: "37, 53, 89"
+        cmyk: "100, 79, 12, 59"
+        pantone: 
+          coated: "655C"
+          uncoated: "655U"
+
+  junior_landcare:
+    primary:
+      - name: "Junior Landcare Orange"
+        hex: "#E23B30"
+        rgb: "226, 59, 48"
+        cmyk: "1, 80, 87, 2"
+        pantone: 
+          coated: "179C"
+          uncoated: "179U"
+      - name: "Bright Orange"
+        hex: "#FBB336"
+        rgb: "244, 170, 0"
+        cmyk: "0, 29, 84, 2"
+        pantone: 
+          coated: "130C"
+          uncoated: "130U"
+      - name: "Light Grey"
+        hex: "#DBDAD9"
+        rgb: "216, 218, 217"
+        cmyk: "7, 3, 5, 8"
+        pantone: 
+          coated: "427C"
+          uncoated: "427U"
+      - name: "Dark Grey"
+        hex: "#444642"
+        rgb: "68, 70, 66"
+        cmyk: "50, 30, 40, 90"
+        pantone: 
+          coated: "447C"
+          uncoated: "447U"
+    secondary:
+      - name: "Light Orange"
+        hex: "#F8EEED"
+        rgb: "248, 238, 237"
+        cmyk: "2, 6, 3, 0"
+        pantone: 
+          coated: "176C (15% tint)"
+          uncoated: "176U (15% tint)"
+      - name: "Light Yellow"
+        hex: "#FFF7EB"
+        rgb: "255, 244, 224"
+        cmyk: "0, 5, 15, 0"
+        pantone: 
+          coated: "127C (15% tint)"
+          uncoated: "127U (15% tint)"
+      - name: "Bright Green"
+        hex: "#C3D217"
+        rgb: "195, 210, 23"
+        cmyk: "28, 0, 92, 0"
+        pantone: 
+          coated: "382C"
+          uncoated: "382U"
+      - name: "Ocean"
+        hex: "#25355A"
+        rgb: "37, 53, 89"
+        cmyk: "100, 79, 12, 59"
+        pantone: 
+          coated: "655C"
+          uncoated: "655U"
+
+  coastcare:
+    primary:
+      - name: "Coastcare Blue"
+        hex: "#005A84"
+        rgb: "0, 90, 132"
+        cmyk: "99, 10, 14, 38"
+        pantone: 
+          coated: "308C"
+          uncoated: "308U"
+      - name: "Bright Blue"
+        hex: "#00AAD2"
+        rgb: "0, 170, 210"
+        cmyk: "74, 0, 14, 0"
+        pantone: 
+          coated: "312C"
+          uncoated: "312U"
+      - name: "Light Grey"
+        hex: "#DBDAD9"
+        rgb: "216, 218, 217"
+        cmyk: "7, 3, 5, 8"
+        pantone: 
+          coated: "427C"
+          uncoated: "427U"
+      - name: "Dark Grey"
+        hex: "#444642"
+        rgb: "68, 70, 66"
+        cmyk: "50, 30, 40, 90"
+        pantone: 
+          coated: "447C"
+          uncoated: "447U"
+    secondary:
+      - name: "Emerald"
+        hex: "#005741"
+        rgb: "0, 87, 65"
+        cmyk: "84, 17, 68, 55"
+        pantone: 
+          coated: "7484C"
+          uncoated: "342U"
+      - name: "Light Blue"
+        hex: "#B1D2E2"
+        rgb: "177, 210, 227"
+        cmyk: "35, 8, 9, 0"
+        pantone: 
+          coated: "552C"
+          uncoated: "552U"
+      - name: "Mid Blue"
+        hex: "#00598F"
+        rgb: "0, 89, 143"
+        cmyk: "95, 62, 20, 5"
+        pantone: 
+          coated: "7462C"
+          uncoated: "7462U"
+      - name: "Ocean"
+        hex: "#25355A"
+        rgb: "37, 53, 89"
+        cmyk: "100, 79, 12, 59"
+        pantone: 
+          coated: "655C"
+          uncoated: "655U"

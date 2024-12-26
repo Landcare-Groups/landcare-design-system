@@ -1,0 +1,114 @@
+
+typography:
+  fonts:
+    primary:
+      name: "Sari"
+      fallback: "Open Sans, Arial, sans-serif"
+      usage: "Print documents, Word templates, InDesign templates"
+    web_primary:
+      name: "Open Sans"
+      fallback: "Arial, sans-serif"
+      usage: "Websites, digital platforms"
+
+  sizes:
+    headings:
+      h1: "32pt"
+      h2: "24pt"
+      h3: "18pt"
+      h4: "16pt"
+      h5: "14pt"
+      h6: "12pt"
+    body: "12pt"
+    small_text: "10pt"
+    list_text: "12pt"
+    captions: "10pt"
+    footnotes: "8pt"
+
+  line_spacing:
+    headings: "1.2"
+    body: "1.5"
+    lists: "1.4"
+    captions: "1.2"
+    footnotes: "1.0"
+
+  padding:
+    top: "1rem"
+    bottom: "1rem"
+    between_paragraphs: "0.8rem"
+
+  alignment:
+    headings: "left"
+    body: "left"
+    lists: "left"
+    quotes: "center"
+    captions: "center"
+
+  elements:
+    horizontal_rule:
+      thickness: "1px"
+      style: "solid"
+      color: "primary_text"
+      margin_top: "1rem"
+      margin_bottom: "1rem"
+
+    section_breaks:
+      height: "2rem"
+      color: "background_secondary"
+
+    block_quotes:
+      font_size: "14pt"
+      font_style: "italic"
+      indentation: "2rem"
+      border_left:
+        thickness: "4px"
+        color: "primary_text"
+      margin_top: "1rem"
+      margin_bottom: "1rem"
+
+    captions:
+      font_size: "10pt"
+      alignment: "center"
+      margin_top: "0.5rem"
+
+    lists:
+      unordered:
+        marker: "•"
+        margin_left: "1.5rem"
+      ordered:
+        marker: "decimal"
+        margin_left: "1.5rem"
+
+    tables:
+      header_row:
+        font_weight: "bold"
+        background_color: "background_secondary"
+        text_color: "primary_text"
+      borders:
+        style: "solid"
+        color: "light_grey"
+      cell_padding: "0.5rem"
+      alternating_row_colors:
+        enabled: true
+        color: "light_grey"
+
+    links:
+      color: "link_text"
+      underline: true
+      hover_color: "link_hover_text"
+
+    drop_caps:
+      font_size: "4x" # 4 times the body font size
+      color: "primary_text"
+      margin_right: "0.3rem"
+
+  grid:
+    columns: 12
+    gutter: "1rem"
+    margins:
+      web: "2rem"
+      print: "2cm"
+
+  accessibility:
+    min_font_size: "16px"
+    contrast_ratio: "4.5:1"
+    text_scaling: true
