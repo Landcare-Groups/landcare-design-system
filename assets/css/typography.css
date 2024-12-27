@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Sari';
+  src: local('Open Sans, Arial, sans-serif');
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: local('Arial, sans-serif');
+}
+h1 {
+  font-size: 32pt;
+}
+h2 {
+  font-size: 24pt;
+}
+h3 {
+  font-size: 18pt;
+}
+h4 {
+  font-size: 16pt;
+}
+h5 {
+  font-size: 14pt;
+}
+h6 {
+  font-size: 12pt;
+}
+body {
+  font-size: 12pt;
+}
+headings {
+  line-height: 1.2;
+}
+body {
+  line-height: 1.5;
+}
+lists {
+  line-height: 1.4;
+}
+captions {
+  line-height: 1.2;
+}
+footnotes {
+  line-height: 1.0;
+}
