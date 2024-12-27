@@ -2,6 +2,7 @@
 layout: default
 title: Typography
 ---
+<link rel="stylesheet" href="../../assets/css/typography.css">
 
 # Typography
 
