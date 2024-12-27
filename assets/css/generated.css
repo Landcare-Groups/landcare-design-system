@@ -1,0 +1,126 @@
+/* Typography Styles */
+/* Print documents, Word templates, InDesign templates */
+@font-face {
+  font-family: 'Sari';
+  src: local('Sari'), local('Open Sans, Arial, sans-serif');
+}
+/* Websites, digital platforms */
+@font-face {
+  font-family: 'Open Sans';
+  src: local('Open Sans'), local('Arial, sans-serif');
+}
+h1 { font-size: 32pt; }
+h2 { font-size: 24pt; }
+h3 { font-size: 18pt; }
+h4 { font-size: 16pt; }
+h5 { font-size: 14pt; }
+h6 { font-size: 12pt; }
+body { font-size: 12pt; }
+.small_text { font-size: 10pt; }
+.list_text { font-size: 12pt; }
+.captions { font-size: 10pt; }
+.footnotes { font-size: 8pt; }
+
+/* Typography Elements */
+hr {
+  border-top: 1px solid primary_text;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+blockquote {
+  font-size: 14pt;
+  font-style: italic;
+  margin-left: 2rem;
+  border-left: 4px solid primary_text;
+}
+ul { list-style-type: disc; margin-left: 1.5rem; }
+ol { list-style-type: decimal; margin-left: 1.5rem; }
+
+/* Alignment Styles */
+body { text-align: left; }
+h1, h2, h3, h4, h5, h6 { text-align: left; }
+ul, ol { text-align: left; }
+blockquote { text-align: center; }
+
+/* Grid Styles */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1rem;
+}
+.grid-margin-web { margin: 2rem; }
+.grid-margin-print { margin: 2cm; }
+
+/* Color Styles */
+.core_landcare-primary-landcare-green {
+  color: #82A53A;
+}
+.core_landcare-primary-bright-green {
+  color: #C3D217;
+}
+.core_landcare-primary-light-grey {
+  color: #DBDAD9;
+}
+.core_landcare-primary-dark-grey {
+  color: #444642;
+}
+.core_landcare-secondary-forest {
+  color: #325040;
+}
+.core_landcare-secondary-emerald {
+  color: #005741;
+}
+.core_landcare-secondary-light-green {
+  color: #EFF5DC;
+}
+.core_landcare-secondary-ocean {
+  color: #25355A;
+}
+.junior_landcare-primary-junior-landcare-orange {
+  color: #E23B30;
+}
+.junior_landcare-primary-bright-orange {
+  color: #FBB336;
+}
+.junior_landcare-primary-light-grey {
+  color: #DBDAD9;
+}
+.junior_landcare-primary-dark-grey {
+  color: #444642;
+}
+.junior_landcare-secondary-light-orange {
+  color: #F8EEED;
+}
+.junior_landcare-secondary-light-yellow {
+  color: #FFF7EB;
+}
+.junior_landcare-secondary-bright-green {
+  color: #C3D217;
+}
+.junior_landcare-secondary-ocean {
+  color: #25355A;
+}
+.coastcare-primary-coastcare-blue {
+  color: #005A84;
+}
+.coastcare-primary-bright-blue {
+  color: #00AAD2;
+}
+.coastcare-primary-light-grey {
+  color: #DBDAD9;
+}
+.coastcare-primary-dark-grey {
+  color: #444642;
+}
+.coastcare-secondary-emerald {
+  color: #005741;
+}
+.coastcare-secondary-light-blue {
+  color: #B1D2E2;
+}
+.coastcare-secondary-mid-blue {
+  color: #00598F;
+}
+.coastcare-secondary-ocean {
+  color: #25355A;
+}
