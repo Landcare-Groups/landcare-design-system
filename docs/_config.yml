@@ -1,6 +1,6 @@
 include:
-  - _includes/head.html
-  
+  - ../_includes/head.html
+
 title: "LDS"
 description: "Comprehensive design system for Landcare groups."
 remote_theme: just-the-docs/just-the-docs # Replace this with the theme you're using
