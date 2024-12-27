@@ -1,6 +1,5 @@
 include:
-  - /github/workspace/docs/_includes/head.html
-
+  - _includes/head.html
 
 title: "LDS"
 description: "Comprehensive design system for Landcare groups."
