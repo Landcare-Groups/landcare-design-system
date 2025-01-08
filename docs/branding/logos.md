@@ -15,17 +15,6 @@ The Landcare logo is composed of three key elements:
 3. **The Wordmark ("Landcare")**: The "Landcare" wordmark establishes the organisation’s name and ties it to the caring hands symbol.
 4. **Container (Framing Box)**: A framing box with a distinctive diagonal cut at the bottom, unifying the identifier, group name, and wordmark into a cohesive and recognisable design.
 
-### Example Structure
-```text
-+-----------------------+
-|    Caring Hands       | (Primary Visual Element)
-+-----------------------+
-|   [Group Name]        | (Optional Customisation)
-+-----------------------+
-|      Landcare         | (Wordmark)
-+-----------------------+
-```
-
 ---
 
 ## National Logo Variations
