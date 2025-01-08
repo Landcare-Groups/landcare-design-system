@@ -36,10 +36,7 @@ Regular | Regular Italic | Bold | Bold Italic
 
 When Open Sans is unavailable for digital applications, Calibri can be used as a substitute secondary typeface. Calibri bold, regular or light should be used as a substitute in applications that require system typefaces such as Powerpoint, Word, Excel, outlook and emails as well as any Microsoft Office applications.
 
-```text
-**Note:** Sari, Open Sans, and Futura are custom typefaces not loaded as system fonts on computers. They must be purchased or installed before use and adhere to these guidelines.
-
-```
+> **Note:** Sari, Open Sans, and Futura are custom typefaces not loaded as system fonts on computers. They must be purchased or installed before use and adhere to these guidelines.
 
 ---
 
