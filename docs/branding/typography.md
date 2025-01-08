@@ -3,6 +3,9 @@ layout: default
 title: Typography
 parent: "Brand Guidelines"
 nav_order: 5
+
+custom_css:
+  - /assets/css/typography.css
 ---
 
 
