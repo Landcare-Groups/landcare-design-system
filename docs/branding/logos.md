@@ -11,8 +11,9 @@ The Landcare logo is a powerful symbol that represents the identity and values o
 ## Logo Structure
 The Landcare logo is composed of three key elements:
 1. **The Identifier ("Caring Hands")**: The "Caring Hands" symbol is the visual identifier of Landcare. It represents unity, support, and care for the environment.
-2. **The Group Name (Optional)**: Customised logos may include a group name beneath the identifier to personalise the logo for specific regions or initiatives.
+2. **The Group Name (Optional)**: Customised logos include a group name beneath the identifier to personalise the logo for specific regions or initiatives.
 3. **The Wordmark ("Landcare")**: The "Landcare" wordmark establishes the organisation’s name and ties it to the caring hands symbol.
+4. **Container (Framing Box)**: A framing box with a distinctive diagonal cut at the bottom, unifying the identifier, group name, and wordmark into a cohesive and recognisable design.
 
 ### Example Structure
 ```text
@@ -27,15 +28,34 @@ The Landcare logo is composed of three key elements:
 
 ---
 
-## Logo Variations
-### Primary Logo
-The primary Landcare logo includes the "Caring Hands" symbol and the "Landcare" wordmark. This version is used for most applications and represents the entire organisation.
+## National Logo Variations
+### Landcare Australia Logo
+The Landcare Australia logo includes the "Caring Hands" symbol and the "Landcare" wordmark followed by "Australia". This version should only be used with express permission of Landcare Australia. 
 
-### Customised Logo
-Customised logos allow the inclusion of a specific group or region name beneath the "Caring Hands" symbol. These logos are created and approved by Landcare Australia to maintain consistency.
+### Junior Landcare Logo
+The Junior Landcare logo includes the "Caring Hands" symbol, the "Junior" "Landcare" wordmarks. This version should only be used with express permission of Landcare Australia.
 
-### Secondary Logo
-A simpler logo version, without the group name or additional text, is available for limited applications, such as small-scale use.
+### Coastcare Logo
+The Coastcare logo includes the "Caring Hands" symbol and the "Coastcare" wordmark. Note, this logo doesn't include the "Australia" wordmark. This version should only be used with express permission of Landcare Australia. 
+
+### Landcare Agriculture Logo
+The Landcare Agriculture logo includes the "Caring Hands" symbol and the "Landcare" wordmark followed by "Agriculture". This version should only be used with express permission of Landcare Australia. 
+
+### Landcarer Logo
+The Landcarer logo includes the "Caring Hands" symbol and the "Landcarer" wordmark. Note, this logo doesn't include the "Australia" wordmark. This version should only be used with express permission of Landcare Australia. 
+
+---
+## Group Logo Variations
+### Landcare Group Logo
+Customised logos allow the inclusion of a specific group or region name beneath the "Caring Hands" symbol, followed by the "Landcare" wordmark. These logos are created and approved by Landcare Australia to maintain consistency.
+
+### Coastcare Group Logo
+Customised logos allow the inclusion of a specific group or region name beneath the "Caring Hands" symbol, followed by the "Landcare" wordmark. These logos are created and approved by Landcare Australia to maintain consistency.
+
+### Junior Landcare Group logo
+Customised logos allow the inclusion of a specific junior group name beneath the "Caring Hands" symbol. These logos are created and approved by Landcare Australia to maintain consistency.
+
+---
 
 ### Monochrome and Reversed Logos
 - **Monochrome Logo**: Used for single-colour printing in black or white.
