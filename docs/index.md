@@ -6,7 +6,7 @@ has_children: true
 
 # Landcare Design System
 
-Welcome to the **Landcare Design System**, your comprehensive guide to creating consistent and impactful designs for Landcare Australia and its associated groups.
+Welcome to the **Landcare Design System**, your comprehensive guide to creating consistent and impactful designs for your Landcare group.
 
 ## What is the Landcare Design System?
 
@@ -49,3 +49,6 @@ This documentation is structured to help you quickly find the information you ne
 
 This design system is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 **Note:** The Landcare brand, including logos and trademarks, is excluded from this license. Use of the Landcare brand is restricted to authorised groups and requires approval from Landcare Australia.
+
+## Group Logos
+If you are a genuine Australian Landcare group and require a logo pack for your group, please make a [logo request to Landcare Australia](branding/logo-request.md)
