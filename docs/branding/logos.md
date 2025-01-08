@@ -1,7 +1,7 @@
 ---
 title: "Logos"
 parent: "Brand Guidelines"
-nav_order: 3
+nav_order: 4
 ---
 
 # Logos

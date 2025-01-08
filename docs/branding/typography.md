@@ -2,7 +2,7 @@
 layout: default
 title: Typography
 parent: "Brand Guidelines"
-nav_order: 4
+nav_order: 5
 ---
 
 
