@@ -13,7 +13,7 @@ The Landcare logo is composed of three key elements:
 1. **The Identifier ("Caring Hands")**: The "Caring Hands" symbol is the visual identifier of Landcare. It represents unity, support, and care for the environment.
 2. **The Group Name (Optional)**: Customised logos include a group name beneath the identifier to personalise the logo for specific regions or initiatives.
 3. **The Wordmark ("Landcare")**: The "Landcare" wordmark establishes the organisation’s name and ties it to the caring hands symbol.
-4. **Container (Framing Box)**: A framing box with a distinctive diagonal cut at the bottom, unifying the identifier, group name, and wordmark into a cohesive and recognisable design.
+4. **Container (Framing Box)**: A framing box with a distinctive "dog-ear" diagonal cut at the bottom, unifying the identifier, group name, and wordmark into a cohesive and recognisable design.
 
 ---
 
