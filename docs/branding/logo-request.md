@@ -1,7 +1,7 @@
 ---
 title: "Logo Request Process"
 parent: "Brand Guidelines"
-nav_order: 3
+nav_order: 10
 ---
 
 # Logo Request Process
