@@ -18,10 +18,4 @@ Landcare is a grassroots movement of individuals and groups working to protect, 
 The Landcare logo and associated “caring hands” symbols are registered trademarks of Landcare Australia. Use of the logo is strictly controlled to maintain brand integrity. Only approved organisations and individuals may use the logo in accordance with these guidelines.
 
 ### Logo Packs
-Eligible Landcare groups can request a logo pack, which includes:
-- Customised logo artwork
-- Brand guidelines for usage
-
-For more information or to request a logo, contact **Landcare Australia** at:
-- Email: enquiries@landcareaustralia.com.au
-- Phone: 02 9412 1040
+Eligible Landcare groups can request a logo pack. See how to [request your Landcare Group logo pack here.](logo-request.md)
