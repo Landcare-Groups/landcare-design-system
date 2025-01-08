@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Typography
+parent: "Brand Guidelines"
+nav_order: 3
 ---
 
 

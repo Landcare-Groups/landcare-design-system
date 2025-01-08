@@ -1,7 +1,7 @@
 ---
 title: "Branding Overview"
 parent: "Brand Guidelines"
-nav_order: 1
+nav_order: 2
 ---
 
 # Branding Overview
